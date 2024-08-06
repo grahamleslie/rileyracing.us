@@ -4,3 +4,9 @@
 
 layout: home
 ---
+
+## Curated, tested, and thoughtfully recommended.
+
+### California-based Riley Racing recommends the best track day and home garage parts, tools, and more.
+
+![Totally our garage.](/assets/images/ferrari-garage.jpeg)

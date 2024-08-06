@@ -21,7 +21,7 @@
 title: Riley Racing
 email: hello@rileyracing.us
 description: >- # this means to ignore newlines until "baseurl:"
-  Curated, tested, and carefully recommended track day and home garage parts, tools, and more. California-based Riley Racing.
+  Curated, tested, and thoughtfully recommended track day and home garage parts, tools, and more. California-based Riley Racing.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rileyracing.us" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: rileyracingus
